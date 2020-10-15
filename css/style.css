@@ -80,7 +80,6 @@ nav a:hover {
 .about {
   width: 100%;
   height: 1000px;
-  /* background-image: url("https://lh4.googleusercontent.com/Iap075QoLxtqB5wPy-a_QvgGEtpJJ-rO3VAai_4lnDTy0f9xOR_x5XnLcF3LfaL-AQteaOmnERBhHMZfM4s3WMVU4o5OhIihok_51I_sOc0COLZZEA=w1280"); */
   opacity: 0.9;
   background-size: cover;
 }
@@ -136,7 +135,6 @@ section:nth-child(even) {
 .menu {
   width: 100%;
   height: 900px;
-  /* background-image: url("https://lh4.googleusercontent.com/zHUsVzZ7JhOlStztDnRIGUuAMpiHjlmnIUwrMdmmfzT2tsnUidrGzxssQBOkjZRgJyLUgso=w1280"); */
   background-size: cover;
   opacity: 0.9;
   color: #000000;
